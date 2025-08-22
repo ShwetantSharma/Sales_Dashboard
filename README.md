@@ -4,7 +4,8 @@ This project is an **interactive sales dashboard** built to analyze and visualiz
 
 ---
 
-## 🚀 Features  
+## 🚀 Features  <img width="1615" height="725" alt="Screenshot 2025-08-22 231702" src="https://github.com/user-attachments/assets/ea1e37ca-2374-4744-9be3-3858621aac62" />
+
 
 - **Sales by Category** – Compare sales performance across multiple product categories.  
 - **Profit Gained Over Time** – Track profit trends for Furniture, Office Supplies, and Technology over multiple years.  
